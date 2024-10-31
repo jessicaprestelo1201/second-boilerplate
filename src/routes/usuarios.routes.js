@@ -13,4 +13,4 @@ usuariosRoutes.get("/",(req, res) => {
         usuarios,
     });
 });
-export default usuariosRoutes = Router();
+export default usuariosRoutes;
